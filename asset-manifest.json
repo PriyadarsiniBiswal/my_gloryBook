@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my_gloryBook/static/css/main.a0702c5a.css",
+    "main.js": "/my_gloryBook/static/js/main.2567dff0.js",
+    "static/media/person1.jpg": "/my_gloryBook/static/media/person1.477efdc97915622947f9.jpg",
+    "index.html": "/my_gloryBook/index.html",
+    "main.a0702c5a.css.map": "/my_gloryBook/static/css/main.a0702c5a.css.map",
+    "main.2567dff0.js.map": "/my_gloryBook/static/js/main.2567dff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0702c5a.css",
+    "static/js/main.2567dff0.js"
+  ]
+}
